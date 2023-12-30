@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yoyboi672
+- 👀 I’m interested in UI design
+- 🌱 I’m currently learning Python with PyQt
